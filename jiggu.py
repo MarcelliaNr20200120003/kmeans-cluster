@@ -31,7 +31,7 @@ st.markdown("""
         border-bottom: 2px solid #4e8cff;
     }
     h2, .sidebar .sidebar-content h2 {
-        color: #31333F;
+        color: #ff6347;
         font-family: 'Helvetica Neue', sans-serif;
         margin-top: 1.5rem;
         margin-bottom: 1rem;
